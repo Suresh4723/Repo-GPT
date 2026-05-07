@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Environment
+.env
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# RAG runtime data
+backend/repo/
+backend/db/
+
+# Frontend
+node_modules/
+dist/
+.DS_Store
+
+# OS
+Thumbs.db
